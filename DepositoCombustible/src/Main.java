@@ -1,7 +1,7 @@
 /**
  * Main class of the Java program. 
  * 
- * @author IES Severo Ochoa team
+ * @author Iván Zarco
  * @since 2018-01
  * 
  */
